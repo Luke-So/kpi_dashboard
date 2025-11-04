@@ -22,8 +22,4 @@ The dashboard highlights and identifies performance patterns across time, sales 
 - Highest sales occur in Q4 across multiple years  
 - Technology is the most profitable product category  
 - Larger discounts tend to lower profitability  
-<<<<<<< HEAD
 - A small group of products is driving total sales
-=======
-- A small group of products is driving total sales
->>>>>>> a99bb8b24bcafa73bda7f1d9bb5275371db14b6f
